@@ -1,6 +1,6 @@
 # Year 2 Final Year Project
 ### This project was the final main project of 2nd year, it was developed over the span of 2 weeks and was built in c++ using SFML for graphics and also THOR for the particle system and for additional timers.
-### The game features a main menu with some tutorial tips in the bottom right corner that slowly cycle between hints. The menu also allows the player to change the current character they play as and allows the player to start the game.
+### The game features a main menu with some tutorial tips in the bottom right corner that slowly cycle between hints. The menu also allows the player to change the current character they play as and allows the player to start the game.   
 ### 
 <img width="250" height="200" alt="Screenshot 2025-09-24 202037" src="https://github.com/user-attachments/assets/11aabfd2-9557-4d6c-b9e0-d0cb613146e7" /> 
 <img width="250" height="200" alt="Screenshot 2025-09-24 202049" src="https://github.com/user-attachments/assets/cfdce6fc-d56c-428b-92d8-43d929680c26" /> 
